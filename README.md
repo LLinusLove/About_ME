@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LLinusLove
-- 👀 I’m interested in data analysis and poker 
-- 🌱 I’m currently learning SQL and spreadsheet 
+- 👀 I’m interested in data analysis and statistical learning 
+- 🌱 I’m currently learning SQL and R 
 - 💞️ I’m looking to collaborate on any entry level project 
 - 📫 How to reach me peter12118@gmail.com or peter12118#0226 on Discord 
 
